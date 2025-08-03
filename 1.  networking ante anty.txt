@@ -1,0 +1,66 @@
+1.  networking ante anty?
+
+  types of networks(LAN,WAN,MAN)
+
+2. Topologies (Bus, star, ring, mesh)
+
+3. IP address ante anty?
+   Gateway ante anty?
+
+4.subnet mask ante anty?
+
+5.class A,B,C,ip address explanation
+
+6.private and public IP address
+
+7.satatic vs dynamic ip addaress
+
+8.DHCP working
+
+9.DNS working
+
+10.NAT ante anty
+
+11.OSI model
+
+12.TCP/IP model
+
+13.MAC address ante anty
+
+14.ARP
+
+15.switch vs router vs hub
+
+16.port numbers (HTTP, FTP, SSH, DNS etc)
+
+17.firewall ante anty (types stateful, stateless)
+
+18.proxy server ante anty?
+
+19.VPN ante anty?
+
+20.PING,traceroute, nslookup,netstat
+
+21.ip configuration in windows &linux
+
+22.packet loss, latency, bandwidth ante anti
+
+23.wireshark introduction
+
+24.wireshark lo packet analysis
+
+25.DHCP messages (Discover, offer,request,ACK)
+
+
+
+
+
+26.DNS query types (A, AAAA,MX,PTR)
+
+27.network trouble shoting
+
+28.real-time network issues example
+
+29.network summary & certification info (CCNA basics)
+
+ 
